@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: home-projects
+  annotations:
+    github.com/project-slug: kmfrett/home-projects
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
